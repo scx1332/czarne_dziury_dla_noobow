@@ -44,9 +44,8 @@ Jedyna różnica jest taka, że w przypadku 1 obniżamy swoją energię potencja
 
 Tesza do potwiedzenia 1: Oba przypadki potrzebują takiego samego wkładu energetycznego, żeby osiągnąć tę samą zmianę czasu. Biorąc pod uwagę, że dylatacja czasu ma taki sam wzór zależności od prędkości ucieczki jak w teorii względności.
 
-Zagadka do potwierdzenia 2: Przelecenie windą przez środek naszej planety na drugą stronę (huśtawka grawitacyjna) a potem powrót spowoduje, że nie nastąpi różnica czasu. Ponieważ efekt spowolnienia ogólną teorią względnością będzie zniwelowany energią kinetyczną dodaną przez szczególną teorię względności.
+Zagadka 2: Przelecenie windą przez środek naszej planety na drugą stronę (huśtawka grawitacyjna) a potem powrót spowoduje, że nastąpi różnica czasu x2? (dwa spowolnienia od energii potencjalnej i kinetycznej) czy nie nastąpi różnica w ogole.
 
-Ciekawy wniosek: Już ze szczególnej teorii względności, można było podejrzewać, że coś jest nie tak z grawitacją ponieważ wtedy korzystanie z huśtawki grawitacyjnej spowodowałoby trwałe różnice czasu własnego w zegarach.
 
 
 
