@@ -3,7 +3,20 @@
 ### Proste pytania
 
 1. Dylatacja czasu wewnątrz pustej sfery z masą:  
-Dylatacja czasu zależy od potencjału, potencjał jest stały wewnątrz pustej sfery. 
+Dylatacja czasu zależy od potencjału, potencjał jest stały wewnątrz pustej sfery.
+
+Czasoprzestrzeń daje ograniczenie na minimalny potencjał grawitacyjny. Więc jeżeli układ mas jest taki, że gdzieś ten potencjał dochodzi do tej granicy to powstaje czarna dziura. Otwarte pytanie to jest jaki może być kształt horyzontu zdarzeń, pewnie w przypadku układu dynamicznego w bardzo krótkim okresie czasu horzyont zdarzeń może mieć różny kształt, ale w bardzo krótkim czasie osiąga kształt sferyczny (rozważam nieobracającą się lub wolno obracającą się czarną dziurę), przy czym nadmiar energii częściowo jest pochłaniany przez czarną dziurę a częściowo oddany w postaci fal grawitacyjnych. Po chwili czarna dziura staje się zwykłą nudną czarną dziurą.
+Zjawisko to jest obserwowane kiedy dwie gwiazdy neutronowe łączą się tworząc czarną dziurę.
+W przypadku ewolucji układu mas znaczenie ma tylko to co znajduje się wewnąrz
+
+
+φhorizon=−1/2*c^2
+
+
+
+
+
+
 
 ### Średnie pytania
 
