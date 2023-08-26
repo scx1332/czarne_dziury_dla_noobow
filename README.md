@@ -34,7 +34,7 @@ Dylatacja czasu wewnątrz pustej sfery z masą:
 
 Dylatacja czasu zależy od potencjału, potencjał jest stały wewnątrz pustej sfery.
 
-Pomysł na science fiction:
+### Pomysł na science fiction:
 
 Abstrahując od materiałowych ograniczeń fizycznych można zbudować planetę bliską masie krytycznej czarnej dziury, która jest pusta w środku. Wewnątrz tej sfery grawitacja wynosiłaby zero, natomiast czas płynąłby znacznie wolniej niż na zewnątrz sfery. O ile dostanie się do środka sfery wiązałoby się z oddaniem bardzo dużej energii, o tyle wydostanie się na zewnątrz wymagałoby z włożeniem dużej energii.
 
