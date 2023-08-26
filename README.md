@@ -4,7 +4,7 @@
 ### Proste pytania
 
 
-
+https://physics.stackexchange.com/questions/636832/what-is-the-gravity-at-the-event-horizon-of-a-black-hole
 
 2. Potencjał grawitacyjny
 
