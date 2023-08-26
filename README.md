@@ -1,16 +1,52 @@
 # czarne_dziury_dla_noobow
 
+
 ### Proste pytania
 
-1. Dylatacja czasu wewnątrz pustej sfery z masą:  
-Dylatacja czasu zależy od potencjału, potencjał jest stały wewnątrz pustej sfery.
 
-Czasoprzestrzeń daje ograniczenie na minimalny potencjał grawitacyjny. Więc jeżeli układ mas jest taki, że gdzieś ten potencjał dochodzi do tej granicy to powstaje czarna dziura. Otwarte pytanie to jest jaki może być kształt horyzontu zdarzeń, pewnie w przypadku układu dynamicznego w bardzo krótkim okresie czasu horzyont zdarzeń może mieć różny kształt, ale w bardzo krótkim czasie osiąga kształt sferyczny (rozważam nieobracającą się lub wolno obracającą się czarną dziurę), przy czym nadmiar energii częściowo jest pochłaniany przez czarną dziurę a częściowo oddany w postaci fal grawitacyjnych. Po chwili czarna dziura staje się zwykłą nudną czarną dziurą.
-Zjawisko to jest obserwowane kiedy dwie gwiazdy neutronowe łączą się tworząc czarną dziurę.
-W przypadku ewolucji układu mas znaczenie ma tylko to co znajduje się wewnąrz
 
+
+2. Potencjał grawitacyjny
+
+Najnizszy możliwy potencjał (przy którym następuje graniczne spowolnienie czasu)
 
 φhorizon=−1/2*c^2
+
+Opowieść 1
+
+Czasoprzestrzeń daje ograniczenie na minimalny potencjał grawitacyjny. Więc jeżeli układ mas jest taki, że gdzieś ten potencjał dochodzi do tej granicy to powstaje czarna dziura. Otwarte pytanie to jest jaki może być kształt horyzontu zdarzeń, pewnie w przypadku układu dynamicznego w bardzo krótkim okresie czasu horzyont zdarzeń może mieć różny kształt, ale w bardzo krótkim czasie osiąga kształt sferyczny (rozważam nieobracającą się lub wolno obracającą się czarną dziurę), przy czym nadmiar energii częściowo jest pochłaniany przez czarną dziurę a częściowo oddany w postaci fal grawitacyjnych. Po chwili czarna dziura staje się zwykłą nudną czarną dziurą.
+
+Pytanie 1: jaki może być kształt horyzontu zdarzeń, czy są jakieś fizyczne ograniczenia
+
+https://news.mit.edu/2019/ringing-new-black-hole-first-0912
+
+Zjawisko to jest obserwowane kiedy dwie gwiazdy neutronowe łączą się tworząc czarną dziurę. Czarna dziura zanim osiągnie equilibrum wydaje z siebie sygnał grawitacyjny podobny do bicia dzwonu zanim osiągnie stan minimalnej energii. 
+
+Opowieść 2
+
+Im masywniejsza czarna dziura tym promień większy. Potencjał na powierzchni jest wprost proporcjonalny do masy i odwrotnie proporcjonalny do promienia, więc łatwo wywnioskować, że promień czarnej dziury jest wprost proporcjonalny do masy.
+Gęstość czarnej dziury spada odwrotnie proporcjonalnie w kwadracie do jej masy. Co tłumaczy dlaczego nie spotyka się małych czarnych dziur. Przy odpowiednio małej masie efekty kwantowe blokują możliwość powstania czarnej dziury, chociaż fizycy proponują, że we wczesnym wszechświecie mogły istnieć:
+https://en.wikipedia.org/wiki/Primordial_black_hole
+
+Dylatacja czasu a potencjał:
+
+Dylatacja czasu wewnątrz pustej sfery z masą:  
+
+Dylatacja czasu zależy od potencjału, potencjał jest stały wewnątrz pustej sfery.
+
+Pomysł na science fiction:
+
+Abstrahując od materiałowych ograniczeń fizycznych można zbudować planetę bliską masie krytycznej czarnej dziury, która jest pusta w środku. Wewnątrz tej sfery grawitacja wynosiłaby zero, natomiast czas płynąłby znacznie wolniej niż na zewnątrz sfery. O ile dostanie się do środka sfery wiązałoby się z oddaniem bardzo dużej energii, o tyle wydostanie się na zewnątrz wymagałoby z włożeniem dużej energii.
+
+Jest to kropka w kropkę to samo co paradoks bliźniąt. Przyśpieszamy do prędkości bliskiej prędkości światła (odpowiednik zejścia na dno planety), potem lecimy ruchem jednostajnym w jedną stronę N lat, zaawracamy (zauważym, że zawrotkę możemy zrobić bez wkładu energetycznego np. odbijając się od sprężyny) i lecimy N lat z powrotem i hamujemy oddając energię.
+
+Jedyna różnica jest taka, że w przypadku 1 obniżamy swoją energię potencjalną, żeby spowolnić swój czas a w przypadku 2 podwyższamy energię kientyczną, żeby spowolnić swój czas własny.
+
+
+
+
+
+
 
 
 
